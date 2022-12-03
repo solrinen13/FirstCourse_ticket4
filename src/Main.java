@@ -18,6 +18,7 @@ public class Main {
                 }
             }
 
+
             if (bookList[i] != null) {
                 System.out.print(bookList[i]);
 
